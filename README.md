@@ -6,7 +6,8 @@
 实验室的相关信息默认大家已经在飞书文档里面看过了，这里主要是给大家一些要求以及前几周的一些小要求
 
 
-首先建议通读以下文档
+首先建议大家先通读以下文档，对于以后的学习有很好的帮助
+
 https://github.com/XiyouMobile/tutorial-basics-for-tech/blob/master/General.md
 
 
