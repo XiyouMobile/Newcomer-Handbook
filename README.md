@@ -14,7 +14,7 @@ https://github.com/XiyouMobile/tutorial-basics-for-tech/blob/master/General.md
 ## 第一周
 
 ### 安装并学习使用命令行工具
-- windows 下建议使用 terminal + powerShell 或者 wsl
+- windows 下建议使用 fluent terminal + powerShell 或者 wsl
 - linux 就不多说了
 - mac 推荐 iterm2
 
