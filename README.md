@@ -109,3 +109,11 @@ OK, 到这一步你就自己能学会怎么用Github了, 至于Github Action等�
 # 需要一直做的事情
 
 认识更具有经验与认知的人, 学习他们的认知培养和思维方式, 当前可以先听一些博客: 硅谷101, 科技早知道, 代码之外, JaneStree, JumpTrading.
+
+# 一些有意思的寻找目前新的技术栈或者海外工作的方式
+
+## Vite, Vitest, OXC 等知名开源项目的官方网站上看Sponsor都是谁
+
+## GitHub Sponsors
+
+## 硅谷有贵人
