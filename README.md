@@ -9,7 +9,7 @@ Server的可以看看怎么做CSS, 怎么设计一个复杂的页面结构, 怎�
 学习Linux, 学习Database, 学习渲染, 都是能做的.
 等等.
 
-你还可以怀揣梦想, 你可以考研, 可以刷绩点申请海外名校, MIT, Standford, UCB, Harvard, Oxford(想要读海外硕博要提前准备)
+你还可以怀揣梦想, 你可以考研, 可以刷绩点申请海外名校, MIT, Stanford, UCB, Harvard, Oxford(想要读海外硕博要提前准备)
 
 更大一点的, 你可以去硅谷, 中关村创业;
 
