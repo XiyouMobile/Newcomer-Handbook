@@ -1,15 +1,20 @@
 {
-  "name": "new-astro-project",
-  "type": "module",
-  "version": "0.0.1",
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "astro dev",
     "build": "astro build",
-    "preview": "astro preview",
-    "astro": "astro"
+    "preview": "astro preview"
   },
-  "dependencies": {
-    "@astrojs/mdx": "^4.3.0",
-    "astro": "^5.10.2"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.1",
+  "devDependencies": {
+    "@astrojs/mdx": "^3.0.0",
+    "astro": "^4.0.0"
   }
 }

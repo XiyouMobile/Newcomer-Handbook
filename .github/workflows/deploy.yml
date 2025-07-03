@@ -30,7 +30,7 @@ jobs:
           version: latest # Or specify a pnpm version
 
       - name: Install dependencies
-        run: pnpm install
+        run: pnpm install --frozen-lockfile # Use --frozen-lockfile in CI if a lockfile is committed
 
       - name: Build
         run: pnpm build # This should output to 'dist' by default
