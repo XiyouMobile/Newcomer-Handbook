@@ -65,7 +65,7 @@ https://github.com/XiyouMobile/tutorial-basics-for-tech/blob/master/General.md
 
 那怎么开始使用Github呢?
 
-要从你自己的需求开始, 比如说, 我想要自己部署一个自己的网站. 
+要从你自己的需求开始, 比如说, 我想要自己部署一个自己的网站.
 
 如果是Web组的, 可以去了解什么是Github.io域名, 然后开是看什么是Astro, 什么是Next.JS, 什么是React...
 
@@ -123,3 +123,6 @@ OK, 到这一步你就自己能学会怎么用Github了, 至于Github Action等�
 你在Stanford读了个夜校, 你旁边坐了一位Zoom的二号员工, 你跟他关系比较好, 后来你想创业, 他给你介绍了一个熟人, 你跟这个熟人聊了聊, 当天你就拿到了200万美金的投资.
 
 然后你做了一个月, 感觉IDEA不太行, 回头再找了熟人, 他说没关系, 你可以再试试, 又给你打了200万美金.
+
+---
+(For details on the website setup and local development, see [DEV_GUIDE.md](./DEV_GUIDE.md).)
